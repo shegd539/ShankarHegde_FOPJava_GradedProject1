@@ -15,7 +15,7 @@ public class AdminDepartment extends SuperDepartment {
 	 * creating the admin department constants for reusing purpose
 	 */
 
-	public final static String DEPARTMENTNAME = " Welcome to Admin Department";
+	public final static String DEPARTMENTNAME = "Admin Department";
 	public final static String TODAYWORK = "Complete your documents submission";
 	public final static String WORKDEADLINE = "Complete by EOD";
 

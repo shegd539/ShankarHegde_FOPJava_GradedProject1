@@ -12,7 +12,7 @@ public class HrDepartment extends SuperDepartment {
 	 * creating the HR department constants for reusing purpose
 	 */
 
-	public final static String DEPARTMENTNAME = " Welcome to HR Department";
+	public final static String DEPARTMENTNAME = "HR Department";
 	public final static String TODAYWORK = "Fill today’s timesheet and mark your attendance";
 	public final static String WORKDEADLINE = "Complete by EOD";
 	public final static String ACTIVITY = "team Lunch";
